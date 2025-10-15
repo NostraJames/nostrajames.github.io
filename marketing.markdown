@@ -7,7 +7,7 @@ permalink: /marketing/
 
 # Full Squish
 
-![01_Full Squish.jpeg](/_marketing/01_Full_Squish.jpeg)
+![01_Full Squish]({{ site.baseurl }}/_marketing/01_Full_Squish.jpeg)
 
 - **Add detailed notes:** Document how each adjustment performs on specific trail segments
 - **Clean, intuitive design:** Simple and sleek interface that's easy to navigate
