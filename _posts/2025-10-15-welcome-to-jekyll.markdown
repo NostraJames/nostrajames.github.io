@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We are Live!"
-date:   10/22/2025
+date:   2025-10-22
 categories: FullSquish update
 ---
 
