@@ -21,7 +21,7 @@
 title: Full Squish App
 email: mtb.fullsquish@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the Full Squish Suspension Tracker App Home Page!
+  Welcome to the Full Squish Suspension Tracker App
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
