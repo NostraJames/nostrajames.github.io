@@ -4,11 +4,8 @@
 
 layout: home
 ---
-# Welcome to FullSquish
-
 FullSquish is a suspension adjustment app for MTB riders. It allows you to save your suspension settings and adjust them on the fly. It also allows you to save your suspension settings for different bikes and different trails.
 
 
 
-<img src="/marketing/02_Full_Squish.jpeg" alt="Full Squish Screenshot" width="500"> 
-<img src="/marketing/04_Full_Squish.jpeg" alt="Full Squish Screenshot" width="500"> 
+| <img src="/marketing/01_Full_Squish.jpeg" alt="Full Squish Screenshot" width="500"> | <img src="/marketing/04_Full_Squish.jpeg" alt="Full Squish Screenshot" width="500"> |
