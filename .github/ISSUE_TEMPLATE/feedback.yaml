@@ -1,0 +1,51 @@
+name: 💬 Feedback
+description: Share your ideas, suggestions, or report issues with Full Squish
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to share your feedback! We read every submission.
+
+  - type: dropdown
+    id: feedback-type
+    attributes:
+      label: What type of feedback is this?
+      options:
+        - Feature Request
+        - Bug Report
+        - General Feedback
+        - Question
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Tell us what's on your mind
+      placeholder: I think it would be great if...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, or details
+      placeholder: E.g., "This would be useful when riding technical trails..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: bike-type
+    attributes:
+      label: What type of bike do you ride?
+      options:
+        - Full Suspension
+        - Hardtail
+        - Both
+        - Other
+    validations:
+      required: false
