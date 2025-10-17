@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marketing
+title: Full Squish
 permalink: /marketing/
 ---
 
