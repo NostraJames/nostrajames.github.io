@@ -25,8 +25,13 @@ permalink: /download/
 
 ## Release Notes
 
+### Version 1.0.1
+**Released: November 4, 2025**
+- **Feedback Loop** - There is a feedback button where it will launch your default email client to send feedback.
+
+
 ### Version 1.0.0
-**Released: October 31, 2024**
+**Released: October 31, 2025**
 
 🎉 **Initial Release**
 
