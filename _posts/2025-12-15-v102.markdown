@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Streamlined & Smarter: FullSquish Update"
+date:   2024-12-14
+categories: FullSquish update
+---
+
+# Dialing It In!
+
+We've been listening to your feedback and working hard to make FullSquish faster, cleaner, and easier to use. This update focuses on streamlining the experience - fewer screens, quicker access to your tunes, and the features you've been asking for.
+
+## Streamlined Navigation
+
+**Fewer Screens, More Efficiency**: We've consolidated the app to reduce navigation complexity. Everything you need is now more accessible with less tapping around.
+
+**All Tunes in One Place**: Your saved suspension configurations now live directly on the bike details page with expandable tiles. No more jumping between screens to compare settings.
+
+## Quick Tune Switching
+
+**Toggle Between Configurations**: Switch between your saved tunes instantly with quick toggles. Testing different setups at the trail? Change configurations on the fly without navigating through multiple screens.
+
+**Expandable Tune Cards**: Each configuration expands to show full details including all your suspension settings and notes. Everything visible at a glance.
+
+## Smarter Settings Management
+
+**Mark Settings as N/A**: Not all suspension components have high-speed adjusters. Now you can toggle parameters like HSC (High Speed Compression) and HSR (High Speed Rebound) as "Not Applicable" to keep your interface clean and relevant to your specific components.
+
+**Notes Front and Center**: Configuration notes are now visible directly in the bike details page. Document your setup reasoning, trail conditions, or tuning thoughts right where you need them.
+
+## Dark Mode Support
+
+**Easy on the Eyes**: FullSquish now fully supports dark mode. Whether you're tuning in the garage at night or checking settings before a dawn patrol, the app adapts to your system preferences.
+
+## Refined User Experience
+
+- Expandable tune windows for detailed views
+- Cleaner interface with less clutter
+- Faster access to the information you use most
+- Improved readability and visual hierarchy
+
+---
+
+## Join Our Beta Community
+
+We're actively refining FullSquish based on real-world use. **Join our TestFlight beta** to test new features first and help shape the future of suspension tracking.
+
+Your feedback drives our development. Every suggestion helps us make FullSquish better for the entire community.
+
+---
+
+**Ready to dial it in?** Download FullSquish and start tracking your suspension journey today.
+
+Much Love,  
+**The FullSquish Team**
+
+---
+
+*Have feedback or feature requests? We'd love to hear from you.*
