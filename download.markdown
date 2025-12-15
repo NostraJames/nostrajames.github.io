@@ -25,6 +25,14 @@ permalink: /download/
 
 ## Release Notes
 
+### Version 1.0.2
+**Released: December 15, 2025**
+- **Streamlined Interface** - Reduced navigation complexity with consolidated screens
+- **Quick Tune Switching** - Instantly toggle between saved suspension configurations
+- **Expandable Tune Cards** - View full configuration details with one tap
+- **Dark Mode Support** - Full dark mode compatibility for all screens
+- **Smarter Settings Management** - Mark parameters as "Not Applicable" for cleaner interfaces
+
 ### Version 1.0.1
 **Released: November 4, 2025**
 - **Feedback Loop** - There is a feedback button where it will launch your default email client to send feedback.
